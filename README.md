@@ -17,4 +17,5 @@
 ### 链表
 
 - [q2\_两数相加](/链表/q2_两数相加/add-two-numbers.md)
+- [q19\_删除链表的倒数第 N 个结点](/链表/q19_删除链表的倒数第N个结点/remove-nth-node-from-end-of-list.md)
 - [q203\_移除链表元素](/链表/q203_移除链表元素/remove-linked-list-elements.md)
