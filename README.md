@@ -21,4 +21,5 @@
 - [q21\_合并两个有序链表](/链表/q21_合并两个有序链表/merge-two-sorted-lists.md)
 - [q24\_两两交换链表中的节点](/链表/q24_两两交换链表中的节点/swap-nodes-in-pairs.md)
 - [q61\_旋转链表](/链表/q61_旋转链表/rotate-list.md)
+- [q83\_删除排序链表中的重复元素](/链表/q83_删除排序链表中的重复元素/remove-duplicates-from-sorted-list.md)
 - [q203\_移除链表元素](/链表/q203_移除链表元素/remove-linked-list-elements.md)
