@@ -24,4 +24,5 @@
 - [q82\_删除排序链表中的重复元素 II](/链表/q82_删除排序链表中的重复元素II/remove-duplicates-from-sorted-list-ii.md)
 - [q83\_删除排序链表中的重复元素](/链表/q83_删除排序链表中的重复元素/remove-duplicates-from-sorted-list.md)
 - [q86\_分隔链表](/链表/q86_分隔链表/partition-list.md)
+- [q92\_反转链表 II](/链表/q92_反转链表II/reverse-linked-list-ii.md)
 - [q203\_移除链表元素](/链表/q203_移除链表元素/remove-linked-list-elements.md)
