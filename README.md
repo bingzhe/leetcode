@@ -28,4 +28,5 @@
 - [q138\_复制带随机指针的链表](/链表/q138_复制带随机指针的链表/copy-list-with-random-pointer.md)
 - [q141\_环形链表](/链表/q141_环形链表/linked-list-cycle.md)
 - [q142\_环形链表 II](/链表/q142_环形链表II/linked-list-cycle-ii.md)
+- [q143\_重排链表](/链表/q143_重排链表/reorder-list.md)
 - [q203\_移除链表元素](/链表/q203_移除链表元素/remove-linked-list-elements.md)
